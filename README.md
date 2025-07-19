@@ -16,7 +16,7 @@
 
 ## Dataset Download
 
-You can download the dataset in the following ways. For details, see Download [Instructions](https://www.modelscope.cn/docs/Download Dataset).
+You can download the dataset in the following ways. For details, see Download [Instructions](https://www.modelscope.cn/docs/Download%20Dataset).
 
 Before downloading, install ModelScope first by using the following command
 
