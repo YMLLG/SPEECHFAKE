@@ -20,7 +20,7 @@ You can download the dataset in the following ways. For details, see Download [I
 
 Before downloading, install ModelScope first by using the following command
 
-```
+```bash
 pip install modelscope
 ```
 
@@ -28,13 +28,13 @@ pip install modelscope
 
 Download the full dataset repo
 
-```
+```bash
 modelscope download --dataset inclusionAI/SPEECHFAKE
 ```
 
 Download a single file to a specified local folder (using the example of downloading README.md to the "dir" directory in the current path)
 
-```
+```bash
 modelscope download --dataset inclusionAI/SPEECHFAKE README.md --local_dir ./dir
 ```
 
@@ -42,18 +42,18 @@ For more extensive command line download options, please refer to [the specific 
 
 ### SDK Download
 
-```
-#Dataset Download
+```python
+# Dataset Download
 from modelscope.msdatasets import MsDataset
 ds =  MsDataset.load('inclusionAI/SPEECHFAKE')
-#You can configure subset_name and split as needed, refer to the "Quick Use" sample code
+# You can configure subset_name and split as needed, refer to the "Quick Use" sample code
 ```
 
 ### Git Download
 
 Please ensure that LFS has been installed correctly.
 
-```
+```bash
 git lfs install
 git clone https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE.git
 ```
