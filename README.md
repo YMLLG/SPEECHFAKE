@@ -74,11 +74,6 @@ git clone https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE.git
 
 ### **Speech Generation Methods**
 
-Okay, this is a great list of methods\! Determining the exact license for each software project requires looking at their respective GitHub repositories, as licenses are typically found in a `LICENSE` or `LICENSE.md` file at the root of the repository.
-
-Here's the table with the "License" column added. I've done my best to find the most common or explicitly stated license for each from a quick check of the GitHub links you provided. For some, if it's part of a larger project, the license of the main project applies.
-
-
 | No. | Method | Type | License | Link |
 | ---- | ---------------- | ------ | ------- | ----------------------------------------------- |
 | 1 | MelGAN | NV | MIT | https://github.com/kan-bayashi/ParallelWaveGAN |
