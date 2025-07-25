@@ -1,11 +1,18 @@
 # **SpeechFake**: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods
 
-<p align="center">  
-    <a href="https://arxiv.org/abs/">Paper</a>, 
-    <a href="https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE">Dataset</a>
-</p>
-<p align="center">  
-    <i>ACL 2025</i>
+<p align="center">
+  <a href="https://2025.aclweb.org/">
+    <img src="https://img.shields.io/badge/Conference-ACL%202025-4b8bbe" alt="ACL 2025"/>
+  </a>
+  <a href="https://arxiv.org/abs/2507.08530">
+    <img src="https://img.shields.io/badge/arXiv-2507.xxxxx-b31b1b.svg" alt="arXiv" />
+  </a>
+  <a href="https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE">
+    <img src="https://img.shields.io/badge/ModelScope-SPEECHFAKE-0052cc.svg" alt="ModelScope Dataset" />
+  </a>
+  <a href="https://github.com/YMLLG/SPEECHFAKE/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-brightgreen" alt="License: CC BY 4.0" />
+  </a>
 </p>
 
 ## Introduction
@@ -16,7 +23,9 @@
 
 ## Dataset Download
 
-You can download the dataset in the following ways. For details, see Download [Instructions](https://www.modelscope.cn/docs/Download%20Dataset).
+### Modelscope
+
+You can download the dataset through [ModelScope](https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE). For details, see Download [Instructions](https://www.modelscope.cn/docs/Download%20Dataset).
 
 Before downloading, install ModelScope first by using the following command
 
@@ -24,7 +33,7 @@ Before downloading, install ModelScope first by using the following command
 pip install modelscope
 ```
 
-### Command Line Download
+#### Command Line Download
 
 Download the full dataset repo
 
@@ -40,7 +49,7 @@ modelscope download --dataset inclusionAI/SPEECHFAKE README.md --local_dir ./dir
 
 For more extensive command line download options, please refer to [the specific documentation](https://www.modelscope.cn/docs/datasets/download#3-使用命令行工具下载数据集文件)
 
-### SDK Download
+#### SDK Download
 
 ```python
 # Dataset Download
@@ -49,7 +58,7 @@ ds =  MsDataset.load('inclusionAI/SPEECHFAKE')
 # You can configure subset_name and split as needed, refer to the "Quick Use" sample code
 ```
 
-### Git Download
+#### Git Download
 
 Please ensure that LFS has been installed correctly.
 
