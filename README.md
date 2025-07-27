@@ -116,11 +116,11 @@ If you use this dataset in your work, please cite the following paper:
 
 ```
 @inproceedings{huang2025speechfake,
-title     = {SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods},
-author    = {Huang, Wen and Gu, Yanmei and Wang, Zhiming and Zhu, Huijia and Qian, Yanmin},
-booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-year      = {2025},
-pages     = {(to appear)}
+  title={SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods},
+  author={Huang, Wen and Gu, Yanmei and Wang, Zhiming and Zhu, Huijia and Qian, Yanmin},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={9985--9998},
+  year={2025}
 }
 ```
 
