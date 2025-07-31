@@ -1,10 +1,10 @@
 # **SpeechFake**: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods
 
 <p align="left">
-  <a href="https://2025.aclweb.org/"><img src="https://img.shields.io/badge/Conference-ACL%202025-4b8bbe" alt="ACL 2025"/></a>
-  <a href="https://arxiv.org/pdf/2507.21463"><img src="https://img.shields.io/badge/arXiv-2507.21463-b31b1b.svg" alt="arXiv" /></a>
-  <a href="https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE"><img src="https://img.shields.io/badge/ModelScope-SPEECHFAKE-0052cc.svg" alt="ModelScope Dataset" /></a>
-  <a href="https://github.com/YMLLG/SPEECHFAKE/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-brightgreen" alt="License: CC BY 4.0" /></a>
+  <a href="https://2025.aclweb.org/"><img src="https://img.shields.io/badge/Conference-ACL%202025-5884C4" alt="ACL 2025"/></a>
+  <a href="https://arxiv.org/pdf/2507.21463"><img src="https://img.shields.io/badge/arXiv-2507.21463-c14642.svg" alt="arXiv" /></a>
+  <a href="https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE"><img src="https://img.shields.io/badge/ModelScope-SPEECHFAKE-7F6AF2.svg" alt="ModelScope Dataset" /></a>
+  <a href="https://github.com/YMLLG/SPEECHFAKE/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-79B657" alt="License: CC BY 4.0" /></a>
 </p>
 
 
