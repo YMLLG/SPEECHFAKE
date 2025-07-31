@@ -8,13 +8,13 @@
 </p>
 
 
-## Introduction
+## 📘 Introduction
 
 **SpeechFake** is a large-scale multilingual dataset for speech deepfake detection, featuring over 3 million fake samples across 46 languages. Generated using 30 diverse open-source models spanning text-to-speech (TTS), voice conversion or clone (VC), and neural vocoder (NV) methods, it offers rich metadata and strong coverage of modern generation techniques, enabling robust and generalizable detection research.
 
 ![dataset](./figs/dataset.png)
 
-## Dataset Download
+## 📥 Dataset Download
 
 ### Modelscope
 
@@ -40,8 +40,6 @@ Download a single file to a specified local folder (using the example of downloa
 modelscope download --dataset inclusionAI/SPEECHFAKE README.md --local_dir ./dir
 ```
 
-For more extensive command line download options, please refer to [the specific documentation](https://www.modelscope.cn/docs/datasets/download#3-使用命令行工具下载数据集文件)
-
 #### SDK Download
 
 ```python
@@ -60,7 +58,7 @@ git lfs install
 git clone https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE.git
 ```
 
-## Acknowledgement
+## 💡 Acknowledgement
 
 **SpeechFake** is constructed using a combination of publicly available speech datasets and open-source speech generation methods.
 
@@ -110,7 +108,7 @@ git clone https://www.modelscope.cn/datasets/inclusionAI/SPEECHFAKE.git
 | 30 | Seed-VC | VC | GPL-3.0 | https://github.com/Plachtaa/seed-vc |
 
 
-## Citation
+## 📝 Citation
 
 If you use this dataset in your work, please cite the following paper:
 
