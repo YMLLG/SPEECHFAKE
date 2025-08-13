@@ -12,7 +12,7 @@
 
 **SpeechFake** is a large-scale multilingual dataset for speech deepfake detection, featuring over 3 million fake samples across 46 languages. Generated using 30 diverse open-source models<sup>*</sup> spanning text-to-speech (TTS), voice conversion or clone (VC), and neural vocoder (NV) methods, it offers rich metadata and strong coverage of modern generation techniques, enabling robust and generalizable detection research.
 
-<sup>*</sup> Due to licensing issues, data generated from 10 API-based services will not be released.
+> <sup>*</sup> **Note:** Due to licensing issues, data generated from 10 API-based services will not be released.
 
 ![dataset](./figs/dataset.png)
 
